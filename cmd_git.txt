@@ -1,0 +1,1000 @@
+ 1072  ./tableau-bash.sh 
+ 1073  vim tableau-bash.sh
+ 1074  ./tableau-bash.sh 
+ 1075  vim tableau-bash.sh
+ 1076  mv tableau-bash.sh tableau-bash.awk
+ 1077  mv tableau-bash.awk tableau-awk.awk 
+ 1078  vim tableau-awk.awk 
+ 1079  awk -f tableau-awk.awk code_civil.txt 
+ 1080  vim tableau-awk.awk 
+ 1081  awk -f tableau-awk.awk code_civil.txt 
+ 1082  vim tableau-awk.awk 
+ 1083  awk -f tableau-awk.awk code_civil.txt 
+ 1084  cat code_civil.txt 
+ 1085  vim tableau-awk.awk 
+ 1086  cat code_civil.txt 
+ 1087  awk -f tableau-awk.awk code_civil.txt 
+ 1088  vim tableau-awk.awk 
+ 1089  awk -f tableau-awk.awk code_civil.txt 
+ 1090  vim tableau-awk.awk 
+ 1091  awk -f tableau-awk.awk code_civil.txt 
+ 1092  vim tableau-awk.awk 
+ 1093  awk -f tableau-awk.awk code_civil.txt 
+ 1094  vim tableau-awk.awk 
+ 1095  awk -f tableau-awk.awk code_civil.txt 
+ 1096  vim tableau-awk.awk 
+ 1097  awk -f tableau-awk.awk code_civil.txt 
+ 1098  vim tableau-awk.awk 
+ 1099  awk -f tableau-awk.awk code_civil.txt 
+ 1100  vim tableau-awk.awk 
+ 1101  awk -f tableau-awk.awk code_civil.txt 
+ 1102  vim tableau-awk.awk 
+ 1103  awk -f tableau-awk.awk code_civil.txt 
+ 1104  vim tableau-awk.awk 
+ 1105  awk -f tableau-awk.awk code_civil.txt 
+ 1106  vim tableau-awk.awk 
+ 1107  awk -f tableau-awk.awk code_civil.txt 
+ 1108  cat agenda.txt 
+ 1109  cat tel3.txt 
+ 1110  cat code_civil.txt 
+ 1111  vim tableau-awk.awk 
+ 1112  awk -f tableau-awk.awk code_civil.txt 
+ 1113  vim tableau-awk.awk 
+ 1114  awk -f tableau-awk.awk code_civil.txt 
+ 1115  cat code_civil.txt 
+ 1116  vim code_civil.txt 
+ 1117  awk -f tableau-awk.awk code_civil.txt 
+ 1118  vim code_civil.txt 
+ 1119  vim tableau-awk.awk 
+ 1120  rm tableau-awk.awk 
+ 1121  vim tableau-awk.awk 
+ 1122  awk -f tableau-awk.awk code_civil.txt 
+ 1123  vim tableau-awk.awk 
+ 1124  awk -f tableau-awk.awk code_civil.txt 
+ 1125  vim tableau-awk.awk 
+ 1126  awk -f tableau-awk.awk code_civil.txt 
+ 1127  vim tableau-awk.awk 
+ 1128  awk -f tableau-awk.awk code_civil.txt 
+ 1129  vim tableau-awk.awk 
+ 1130  awk -f tableau-awk.awk code_civil.txt 
+ 1131  vim tableau-awk.awk 
+ 1132  awk -f tableau-awk.awk code_civil.txt 
+ 1133  vim tableau-awk.awk 
+ 1134  awk -f tableau-awk.awk code_civil.txt 
+ 1135  vim tableau-awk.awk 
+ 1136  awk -f tableau-awk.awk code_civil.txt 
+ 1137  vim tableau-awk.awk 
+ 1138  awk -f tableau-awk.awk code_civil.txt 
+ 1139  vim tableau-awk.awk 
+ 1140  awk -f tableau-awk.awk code_civil.txt 
+ 1141  vim tableau-awk.awk 
+ 1142  awk -f tableau-awk.awk code_civil.txt 
+ 1143  cat code_civil.txt 
+ 1144  vim tableau-awk.awk 
+ 1145  awk -f tableau-awk.awk code_civil.txt 
+ 1146  vim tableau-awk.awk 
+ 1147  awk -f tableau-awk.awk code_civil.txt 
+ 1148  cat code_civil.txt 
+ 1149  vim tableau-awk.awk 
+ 1150  awk -f tableau-awk.awk code_civil.txt 
+ 1151  vim tableau-awk.awk 
+ 1152  awk -f tableau-awk.awk code_civil.txt 
+ 1153  cat code_civil.txt 
+ 1154  vim code_civil.txt 
+ 1155  vim tableau-awk.awk 
+ 1156  awk -f tableau-awk.awk code_civil.txt 
+ 1157  vim tableau-awk.awk 
+ 1158  awk -f tableau-awk.awk code_civil.txt 
+ 1159  vim tableau-awk.awk 
+ 1160  awk -f tableau-awk.awk code_civil.txt 
+ 1161  vim tableau-awk.awk 
+ 1162  awk -f tableau-awk.awk code_civil.txt 
+ 1163  vim tableau-awk.awk 
+ 1164  awk -f tableau-awk.awk code_civil.txt 
+ 1165  vim tableau-awk.awk 
+ 1166  awk -f tableau-awk.awk code_civil.txt 
+ 1167  vim tableau-awk.awk 
+ 1168  awk -f tableau-awk.awk code_civil.txt 
+ 1169  vim tableau-awk.awk 
+ 1170  awk -f tableau-awk.awk code_civil.txt 
+ 1171  vim tableau-awk.awk 
+ 1172  rm tableau-awk.awk 
+ 1173  cat code_civil.txt 
+ 1174  cat code_civil.txt | awk -F"|" '{print $1}'
+ 1175  cat code_civil.txt | awk -F"|" '{print $2}'
+ 1176  vim tab-test.sh
+ 1177  vim tab-test.sh 
+ 1178  chmod +x tab-test.sh 
+ 1179  ./tab-test.sh 
+ 1180  vim tab-test.sh 
+ 1181  ./tab-test.sh 
+ 1182  vim tab-test.sh 
+ 1183  ./tab-test.sh 
+ 1184  vim tab-test.sh 
+ 1185  ./tab-test.sh 
+ 1186  rm tab-test.sh 
+ 1187  ls
+ 1188  cd ..
+ 1189  pwd
+ 1190  cd ..
+ 1191  mkdir recup_git_hub
+ 1192  cd recup_git_hub/
+ 1193  history | grep git
+ 1194  git init 
+ 1195  git config --global user.name "thegodsson"
+ 1196  git config --global user.mail "francfortgit@gmail.com"
+ 1197  git remote add origin https://github.com/thegodsson/SCRIPTS.git
+ 1198  history | grep git
+ 1199  git push -u origin master
+ 1200  git clone https://github.com/thegodsson/SCRIPTS.git
+ 1201  ls
+ 1202  cd SCRIPTS/
+ 1203  ls
+ 1204  touch test2.txt
+ 1205  git add test2.txt 
+ 1206  git push -u origin master
+ 1207  ls
+ 1208  git add test2.txt 
+ 1209  git push -u origin master
+ 1210  ls
+ 1211  cd ..
+ 1212  git add SCRIPTS/test2.txt 
+ 1213  git commit -m "test" 
+ 1214  git push -u origin master
+ 1215  cd SCRIPTS/
+ 1216  ls
+ 1217  cd ..
+ 1218  git add SCRIPTS/test2.txt 
+ 1219  git commit -m "test" 
+ 1220  git commit -m "test" SCRIPTS/test2.txt 
+ 1221  cd SCRIPTS/
+ 1222  ls
+ 1223  vim test2.txt 
+ 1224  cd ..
+ 1225  git add SCRIPTS/test2.txt 
+ 1226  git commit -m "test" SCRIPTS/test2.txt 
+ 1227  git push -u origin master
+ 1228  git pull https://github.com/thegodsson/SCRIPTS.git
+ 1229  ls
+ 1230  pwd
+ 1231  cd SCRIPTS/
+ 1232  ls
+ 1233  cd ..
+ 1234  ls
+ 1235  touch test2.txt
+ 1236  git add test2.txt 
+ 1237  git commit -m "test" 
+ 1238  git config --global user.name "thegodsson"
+ 1239  git config --global user.mail "francfortgit@gmail.com"
+ 1240  git push -u origin master
+ 1241  ls
+ 1242  ls SCRIPTS/
+ 1243  ls
+ 1244  mv rf SCRIPTS /root
+ 1245  mv -rf SCRIPTS /root
+ 1246  mv -Rf SCRIPTS /root
+ 1247  ls
+ 1248  ls /root/
+ 1249  ls /root/SCRIPTS/
+ 1250  ls
+ 1251  git add .
+ 1252  git commit -m "test" 
+ 1253  git push -u origin master
+ 1254  ls
+ 1255  ls 
+ 1256  mkdir POWERSHELL
+ 1257  mv *.ps1 POWERSHELL/
+ 1258  ls
+ 1259  mv *.awk AWK/
+ 1260  ls
+ 1261  mv Powershell1.txt POWERSHELL/
+ 1262  ls
+ 1263  mkdir BASH_KSH
+ 1264  mv deploy.sh BASH_KSH/
+ 1265  ls
+ 1266  ls PYTHON/
+ 1267  ls
+ 1268  vim scrute_sf.sh 
+ 1269  ls
+ 1270  mv scrute_sf.sh stats* BASH_KSH/
+ 1271  ls
+ 1272  mv eleves.txt BASH_KSH/
+ 1273  ls
+ 1274  mv commande-awk.txt AWK/
+ 1275  ls
+ 1276  cat cmd.txt 
+ 1277  mv cmd.txt BASH_KSH/
+ 1278  ls
+ 1279  mv Dockerfile BASH_KSH/
+ 1280  ls
+ 1281  mv tabassoc.sh\(bash\) BASH_KSH/
+ 1282  ls
+ 1283  mv te* BASH_KSH/
+ 1284  ls
+ 1285  mv audit.sh BASH_KSH/
+ 1286  ls
+ 1287  git add .
+ 1288  git commit -m "reorganosation" 
+ 1289  git push -u origin master
+ 1290  ls
+ 1291  cd AWK/
+ 1292  ls
+ 1293  cat tel3.txt 
+ 1294  vim test2.awk
+ 1295  awk -f test2.awk tel3.txt 
+ 1296  vim test2.awk
+ 1297  awk -f test2.awk tel3.txt 
+ 1298  vim test2.awk
+ 1299  awk -f test2.awk tel3.txt 
+ 1300  vim test2.awk
+ 1301  awk -f test2.awk tel3.txt 
+ 1302  vim test2.awk
+ 1303  vim ventes.awk
+ 1304  pwd
+ 1305  cd ../../EXOS/AWK/AWK/ventes.txt .
+ 1306  cp ../../EXOS/AWK/AWK/ventes.txt .
+ 1307  awk -f ventes.awk ventes.txt 
+ 1308  vim ventes.awk 
+ 1309  awk -f ventes.awk ventes.txt 
+ 1310  vim ventes.awk 
+ 1311  awk -f ventes.awk ventes.txt 
+ 1312  vim ventes.awk 
+ 1313  awk -f ventes.awk ventes.txt 
+ 1314  vim ventes.awk 
+ 1315  awk -f ventes.awk ventes.txt 
+ 1316  vim ventes.awk 
+ 1317  awk -f ventes.awk ventes.txt 
+ 1318  vim ventes.awk 
+ 1319  awk -f ventes.awk ventes.txt 
+ 1320  vim ventes.awk 
+ 1321  awk -f ventes.awk ventes.txt 
+ 1322  vim ventes.awk 
+ 1323  awk -f ventes.awk ventes.txt 
+ 1324  vim ventes.awk 
+ 1325  awk -f ventes.awk ventes.txt 
+ 1326  vim ventes.awk 
+ 1327  awk -f ventes.awk ventes.txt 
+ 1328  vim ventes.awk 
+ 1329  awk -f ventes.awk ventes.txt 
+ 1330  vim ventes.awk 
+ 1331  awk -f ventes.awk ventes.txt 
+ 1332  vim ventes.awk 
+ 1333  awk -f ventes.awk ventes.txt 
+ 1334  vim existe.awk
+ 1335  awk -f existe.awk 
+ 1336  vim existe.awk
+ 1337  awk -f existe.awk 
+ 1338  vim existe.awk
+ 1339  awk -f existe.awk 
+ 1340  vim existe.awk
+ 1341  awk -f existe.awk 
+ 1342  vim existe.awk
+ 1343  awk -f existe.awk 
+ 1344  vim existe.awk
+ 1345  awk -f existe.awk 
+ 1346  vim supprime.awk
+ 1347  awk -f supprime.awk 
+ 1348  vim supprime.awk 
+ 1349  awk -f supprime.awk 
+ 1350  vim ordre_tab.gawk
+ 1351  gawk -f ordre_tab.gawk 
+ 1352  vim asort_asorti_4.gawk
+ 1353  gawk -f asort_asorti_4.gawk 
+ 1354  vim asort_asorti_4.gawk
+ 1355  gawk -f asort_asorti_4.gawk 
+ 1356  vim asort_asorti_4.gawk
+ 1357  gawk -f asort_asorti_4.gawk 
+ 1358  vim asort_asorti_4.gawk
+ 1359  vim tab2d.awk
+ 1360  gawk tab2d.awk 
+ 1361  awk -f tab2d.awk 
+ 1362  vim tab2d.awk
+ 1363  awk -f tab2d.awk 
+ 1364  vim tab2d.gawk4
+ 1365  gawk -f tab2d.gawk4 
+ 1366  vim tab2d.gawk4
+ 1367  gawk -f tab2d.gawk4 
+ 1368  vim tab2d.gawk4
+ 1369  gawk -f tab2d.gawk4 
+ 1370  vim tab2d.gawk4
+ 1371  gawk -f tab2d.gawk4 
+ 1372  vim tab2d.gawk4
+ 1373  gawk -f tab2d.gawk4 
+ 1374  vim tab2d.gawk4
+ 1375  gawk -f tab2d.gawk4 
+ 1376  vim tab2d.gawk4
+ 1377  gawk -f tab2d.gawk4 
+ 1378  vim isarray.awk
+ 1379  gawk -f isarray.awk 
+ 1380  vim agenda1.awk
+ 1381  awk -f agenda1.awk nom=Robert agenda
+ 1382  awk -f agenda1.awk nom=Robert agenda.txt 
+ 1383  vim agenda2.awk
+ 1384  awk -f agenda2.awk nom=Robert agenda.txt 
+ 1385  awk -f agenda2.awk nom=natacha agenda.txt 
+ 1386  awk -f agenda2.awk nom=Natacha agenda.txt 
+ 1387  awk -f agenda1.awk nom=Natacha agenda.txt 
+ 1388  awk -f agenda1.awk nom=Natacha mail=natacha@monsite.com agenda.txt 
+ 1389  awk -f agenda2.awk nom=Natacha agenda.txt 
+ 1390  awk -f agenda2.awk nom=Robert agenda.txt 
+ 1391  awk -f agenda1.awk nom=Robert agenda.txt 
+ 1392  awk -f agenda2.awk nom=Robert agenda.txt 
+ 1393  awk -f agenda2.awk cp=Robert agenda.txt 
+ 1394  awk -f agenda2.awk cp=75020 agenda.txt 
+ 1395  awk -f agenda2.awk mail=75020 agenda.txt 
+ 1396  awk -f agenda2.awk mail=robert@monsite.com agenda.txt 
+ 1397  vim conf.txt
+ 1398  vim conf.awk
+ 1399  awk -f conf.awk conf.txt 
+ 1400  pwd
+ 1401  awk -f conf.awk conf.txt 
+ 1402  vim saisie.awk
+ 1403  awk -f saisie.awk 
+ 1404  vim saisie.awk
+ 1405  awk -f saisie.awk 
+ 1406  vim saisie.awk
+ 1407  awk -f saisie.awk 
+ 1408  vim saisie.awk
+ 1409  awk -f saisie.awk 
+ 1410  cat agenda.txt 
+ 1411  awk -f saisie.awk 
+ 1412  vim saisie.awk
+ 1413  vim cmde.awk
+ 1414  awk -f cmde.awk 
+ 1415  date
+ 1416  vim close_fic.awk
+ 1417  awk -f close_fic.awk 
+ 1418  vim close_fic.awk
+ 1419  awk -f close_fic.awk 
+ 1420  awk  BEGIN{ system("ls -l agenda.txt") }
+ 1421  awk ' BEGIN{ system("ls -l agenda.txt") }'
+ 1422  awk  BEGIN{ fic="agenda.txt ; system("ls -l " fic)}'
+ 1423  awk  'BEGIN{ fic="agenda.txt ; system("ls -l " fic)}'
+ 1424  awk  'BEGIN{ fic="agenda.txt" ; system("ls -l " fic)}'
+ 1425  vim transfert.awk
+ 1426  awk -f transfert.awk tel3.txt 
+ 1427  vim transfert.awk
+ 1428  awk -f transfert.awk tel3.txt 
+ 1429  vim affiche.inc.gawk
+ 1430  vim include.gawk
+ 1431  gawk -f include.gawk 
+ 1432  vim include.gawk
+ 1433  gawk -f include.gawk 
+ 1434  vim include.gawk
+ 1435  vim affiche.inc.gawk
+ 1436  vim include.gawk
+ 1437  gawk -f include.gawk 
+ 1438  vim include.gawk
+ 1439  vim affiche.inc.gawk 
+ 1440  vim include.gawk 
+ 1441  gawk -f include.gawk 
+ 1442  cd ..
+ 1443  git add .
+ 1444  git commit -m "update" 
+ 1445  git push -u origin master
+ 1446  ls
+ 1447  cd BASH_KSH/
+ 1448  ls
+ 1449  vim monscript.sh
+ 1450  mv monscript.sh decal.sh
+ 1451  chmod +x decal.sh 
+ 1452  ./decal.sh /tmp f1 f2 f3 f4 f5 f6
+ 1453  ls
+ 1454  mkdir rep
+ 1455  ./decal.sh /tmp f1 f2 f3 f4 f5 f6
+ 1456  vim monscript.sh
+ 1457  pwd
+ 1458  vim decal.sh 
+ 1459  ./decal.sh /tmp f1 f2 f3 f4 f5 f6
+ 1460  pwd
+ 1461  ls /tmp/
+ 1462  vim getuser.sh
+ 1463  chmod +x getuser.sh 
+ 1464  ./getuser.sh -c -u christie,bob,olive -g cours
+ 1465  ./getuser.sh -y -c
+ 1466  cp getuser.sh getuser_v2.sh 
+ 1467  vim getuser_v2.sh 
+ 1468  ./getuser.sh -y -c
+ 1469  vim getuser_v2.sh 
+ 1470  ./getuser.sh -y 
+ 1471  ./getuser.sh -y -c
+ 1472  vim getuser_v2.sh 
+ 1473  ./getuser.sh -y -c
+ 1474  cp getuser_v2.sh getuser_v3.sh 
+ 1475  vim getuser_v3.sh 
+ 1476  ./getuser.sh -c -u
+ 1477  vim getuser_v3.sh 
+ 1478  ./getuser_v3.sh -c -u
+ 1479  ./getuser_v2.sh -y -c
+ 1480  cp getuser_v3.sh getuser_v4.sh 
+ 1481  vim getuser_v4.sh 
+ 1482  gestuser.sh -c -u christie,bob fic1 fic2 fic3 fic4
+ 1483  ./getuser_v4.sh -c -u christie,bob fic1 fic2 fic3 fic4
+ 1484  vim calcul.sh
+ 1485  mv calcul.sh calcul_corig.sh
+ 1486  chmod +x calcul_corig.sh 
+ 1487  ./calcul_corig.sh 
+ 1488  vim calcul_corig.sh 
+ 1489  ./calcul_corig.sh 
+ 1490  ./calcul_corig.sh somme 2 3
+ 1491  vim calcul_corig.sh 
+ 1492  ./calcul_corig.sh somme 2 3
+ 1493  vim calcul_corig.sh 
+ 1494  ./calcul_corig.sh somme 2 3
+ 1495  ./calcul_corig.sh produit 2 3
+ 1496  vim calcul_corig.sh 
+ 1497  ./calcul_corig.sh somme 2 3
+ 1498  ./calcul_corig.sh produit 2 3
+ 1499  vim calcul_corig.sh 
+ 1500  ./calcul_corig.sh somme 2 3
+ 1501  ./calcul_corig.sh produit 2 3
+ 1502  vim calcul_corig.sh 
+ 1503  vim calcul.sh
+ 1504  chmod +x calcul
+ 1505  chmod +x calcul.sh 
+ 1506  ./calcul.sh 10
+ 1507  vim calcul.sh
+ 1508  ./calcul.sh 10
+ 1509  echo $?
+ 1510  vim calcul.sh
+ 1511  ./calcul.sh 10
+ 1512  echo $?
+ 1513  ./calcul.sh a
+ 1514  echo $?
+ 1515  vim calcul.sh
+ 1516  ./calcul.sh a
+ 1517  echo $?
+ 1518  ./calcul.sh 100
+ 1519  echo $?
+ 1520  vim calcul.sh 
+ 1521  ./calcul.sh 100
+ 1522  vim calcul.sh 
+ 1523  ./calcul.sh 100
+ 1524  echo $?
+ 1525  vim calcul.sh 
+ 1526  ./calcul.sh 
+ 1527  vim calcul.sh 
+ 1528  ./calcul.sh 
+ 1529  ./calcul.sh produit
+ 1530  ./calcul.sh produit 1
+ 1531  ./calcul.sh produit 1 2
+ 1532  ./calcul.sh produit 1 2 3
+ 1533  vim calcul.sh 
+ 1534  ./calcul.sh produit 1 2 3
+ 1535  ./calcul.sh somme 1 2 3
+ 1536  vim calcul.sh 
+ 1537  ./calcul.sh somme 1 2 3
+ 1538  vim calcul.sh 
+ 1539  ./calcul.sh somme 1 2 3
+ 1540  vim calcul.sh 
+ 1541  ./calcul.sh somme 1 2 3
+ 1542  vim calcul.sh 
+ 1543  ./calcul.sh somme 1 2 3
+ 1544  vim calcul.sh 
+ 1545  ./calcul.sh somme 1 2 3
+ 1546  vim calcul.sh 
+ 1547  ./calcul.sh somme 1 2 3
+ 1548  ./calcul.sh somme 1 2 
+ 1549  ./calcul.sh produit 1 2 
+ 1550  ./calcul.sh produit 2 3
+ 1551  vim calcul.sh 
+ 1552  ./calcul.sh produit 2 3
+ 1553  ./calcul.sh somme 1 2 
+ 1554  vim calcul.sh 
+ 1555  ./calcul.sh somme 1 2 
+ 1556  ./calcul.sh produit 2 3
+ 1557  ./calcul.sh produit 3 2
+ 1558  vim calcul.sh 
+ 1559  ./calcul.sh produit 3 2
+ 1560  ./calcul.sh somme 3 2
+ 1561  vim calcul.sh 
+ 1562  ./calcul.sh toto 3 2
+ 1563  vim calcul.sh 
+ 1564  ./calcul.sh produit 3 2
+ 1565  bash -x ./calcul.sh produit 3 2
+ 1566  vim calcul.sh 
+ 1567  ./calcul.sh produit 3 2
+ 1568  vim calcul.sh 
+ 1569  ./calcul.sh produit 3 2
+ 1570  vim calcul.sh 
+ 1571  ./calcul.sh produit 3 2
+ 1572  vim calcul.sh 
+ 1573  ./calcul.sh produit 3 2
+ 1574  ./calcul.sh somme 3 2
+ 1575  vim calcul.sh 
+ 1576  ./calcul.sh somme 3 2
+ 1577  vim calcul.sh 
+ 1578  bash -x ./calcul.sh somme 3 2
+ 1579  vim calcul.sh 
+ 1580  bash -x ./calcul.sh somme 3 2
+ 1581  vim calcul.sh 
+ 1582  bash -x ./calcul.sh somme 3 2
+ 1583  bash -x ./calcul.sh produit 3 2
+ 1584  vim calcul.sh 
+ 1585  ./calcul.sh somme 3 2
+ 1586  ./calcul.sh produit 3 2
+ 1587  vim calcul.sh 
+ 1588  vim test.sh
+ 1589  chmod +x test.sh 
+ 1590  ./test.sh 
+ 1591  vim test.sh
+ 1592  ./test.sh 
+ 1593  grep -q david /etc/passwd
+ 1594  echo $?
+ 1595  grep -q toto /etc/passwd
+ 1596  echo $?
+ 1597  cat /etc/passwd
+ 1598  grep -q titi /etc/passwd
+ 1599  echo $?
+ 1600  vim test.sh
+ 1601  ./test.sh 
+ 1602  vim test.sh
+ 1603  ./test.sh 
+ 1604  vim test.sh
+ 1605  ./test.sh 
+ 1606  vim test.sh
+ 1607  ./test.sh 
+ 1608  vim test.sh
+ 1609  ./test.sh 
+ 1610  vim test.sh
+ 1611  ./test.sh 
+ 1612  vim test.sh
+ 1613  ./test.sh 
+ 1614  vim test.sh
+ 1615  ./test.sh 
+ 1616  vim test.sh
+ 1617  ./test.sh 
+ 1618  grep titi /etc/passwd
+ 1619  grep david /etc/passwd
+ 1620  vim test.sh
+ 1621  set -x ./test.sh 
+ 1622  bash -x ./test.sh 
+ 1623  ./test.sh 
+ 1624  vim test.sh
+ 1625  ./test.sh 
+ 1626  vim test.sh
+ 1627  ./test.sh 
+ 1628  vim test.sh
+ 1629  unset -x ./test.sh 
+ 1630  ./test.sh 
+ 1631  vim test.sh
+ 1632  ./test.sh 
+ 1633  vim test.sh
+ 1634  vim calcul.sh 
+ 1635  ./calcul.sh 
+ 1636  vim calcul.sh 
+ 1637  ./calcul.sh 
+ 1638  ./calcul.sh 1
+ 1639  ./calcul.sh 1 2
+ 1640  ./calcul.sh 1 2 3
+ 1641  vim calcul.sh 
+ 1642  ./calcul.sh 1 2
+ 1643  ./calcul.sh somme 1 2
+ 1644  ./calcul.sh produit 1 2
+ 1645  vim calcul.sh 
+ 1646  bash -x ./calcul.sh produit 1 2
+ 1647  vim calcul.sh 
+ 1648  bash -x ./calcul.sh produit 1 2
+ 1649  vim calcul.sh 
+ 1650  bash -x ./calcul.sh somme 1 2
+ 1651  ./calcul.sh somme 1 2
+ 1652  ./calcul.sh produit 1 2
+ 1653  vim calcul.sh 
+ 1654  bash -x ./calcul.sh produit 1 2
+ 1655  bash -x ./calcul.sh somme 1 2
+ 1656  vim calcul.sh 
+ 1657  bash -x ./calcul.sh produit 1 2
+ 1658  vim calcul.sh 
+ 1659  ls
+ 1660  cd ..
+ 1661  git add .
+ 1662  exit
+ 1663  pwd
+ 1664  ls
+ 1665  cd recup_git_hub/
+ 1666  ls
+ 1667  git add .
+ 1668  git commit -m "update" 
+ 1669  git push -u origin master
+ 1670  exit
+ 1671  ls
+ 1672  cd EXOS/
+ 1673  ls
+ 1674  pwd
+ 1675  cd ..
+ 1676  pwd
+ 1677  ls
+ 1678  cd EXOS/
+ 1679  ls
+ 1680  dir
+ 1681  ls
+ 1682  pwd
+ 1683  cd ~
+ 1684  dir
+ 1685  cd TEST/
+ 1686  ls
+ 1687  cd ..
+ 1688  ls
+ 1689  ls EXOS/
+ 1690  pwd
+ 1691  cd ~
+ 1692  pwd
+ 1693  cd /root/
+ 1694  ls
+ 1695  pwd
+ 1696  cd /home/david/
+ 1697  ls
+ 1698  cd ../vagrant/
+ 1699  ls
+ 1700  cd EXOS/
+ 1701  ls
+ 1702  vim tabasoc.sh
+ 1703  chmod +x tabasoc.sh 
+ 1704  ls
+ 1705  vim tabasoc.sh
+ 1706  vim datas.txt
+ 1707  ./tabasoc.sh 
+ 1708  vim datas.txt
+ 1709  vim tabasoc.sh 
+ 1710  ls
+ 1711  cat tabasoc.sh 
+ 1712  ls
+ 1713  mkdir PYTHON
+ 1714  cd PYTHON/
+ 1715  vim tabassoc.sh
+ 1716  python3.5 tabassoc.sh 
+ 1717  cp ../datas.txt .
+ 1718  python3.5 tabassoc.sh 
+ 1719  cat datas.txt 
+ 1720  vim tabassoc.sh
+ 1721  python3.5 tabassoc.sh 
+ 1722  vim tabassoc.sh
+ 1723  python3.5 tabassoc.sh 
+ 1724  cd ..
+ 1725  ls
+ 1726  mkdir AWK
+ 1727  cd AWK/
+ 1728  ls
+ 1729  apt-get update
+ 1730  git init .
+ 1731  git remote add origin https://github.com/thegodsson/SCRIPTS.git
+ 1732  vim test1.awk
+ 1733  git commit -m "test"
+ 1734  git push origin master
+ 1735  git config --global user.name "thegodsson"
+ 1736  git config --global user.mail "francfortgit@gmail.com"
+ 1737  git push origin master
+ 1738  git commit -m "test"
+ 1739  history 
+ 1740  git add . 
+ 1741  git commi
+ 1742  git remote add origin https://github.com/thegodsson/SCRIPTS.git
+ 1743  git remote -v
+ 1744  git push origin master
+ 1745  git pull
+ 1746  ls
+ 1747  git push origin master
+ 1748  git pull
+ 1749  git pull https://github.com/thegodsson/SCRIPTS.git
+ 1750  ls
+ 1751  git push origin master
+ 1752  mkdir EXOS_AWK
+ 1753  git add EXOS_AWK/
+ 1754  git commit -m "EXOS AWK"
+ 1755  git push origin master
+ 1756  ls
+ 1757  pwd
+ 1758  cd ..
+ 1759  ls
+ 1760  git add AWK/EXOS_AWK/
+ 1761  git commit -m "EXOS AWK"
+ 1762  git push origin master
+ 1763  ls
+ 1764  cd AWK/
+ 1765  ls
+ 1766  git add EXOS_AWK
+ 1767  git commit -m "EXOS AWK"
+ 1768  rm EXOS_AWK/
+ 1769  rm -rf EXOS_AWK/
+ 1770  mkdir EXOS_AWK
+ 1771  git add EXOS_AWK
+ 1772  git commit -m "EXOS AWK"
+ 1773  git push origin master
+ 1774  pwd
+ 1775  ps -ef | awk {print "User: " , $1 , "\tCommande: " , $8} 
+ 1776  ps -ef | awk {print 'User: ' , $1 , '\tCommande: ' , $8} 
+ 1777  ps -ef | awk '{print 'User: ' , $1 , '\tCommande: ' , $8}'
+ 1778  ps -ef
+ 1779  ps -ef | awk '{print "User: " , $1 , "\tCommande: " , $8}'
+ 1780  ls
+ 1781  vim tel3.txt
+ 1782  cat tel3.txt 
+ 1783  pwd
+ 1784  git add tel3.txt 
+ 1785  git commit -m "tel3.txt"
+ 1786  git push origin master
+ 1787  awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt 
+ 1788  awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt  > commande-awk.txt
+ 1789  cat commande-awk.txt 
+ 1790  git add commande-awk.txt 
+ 1791  git commit -m "commande awk"
+ 1792  git push origin master
+ 1793  ls
+ 1794  mkdir AWK
+ 1795  git add AWK
+ 1796  git commit -m "awk"
+ 1797  cp commande-awk.txt  AWK/
+ 1798  git add AWK
+ 1799  git commit -m "awk"
+ 1800  git push origin master
+ 1801  cat commande-awk.txt 
+ 1802  cat AWK/commande-awk.txt 
+ 1803  echo "awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt" > commande-awk.txt
+ 1804  echo "awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt" > AWK/commande-awk.txt 
+ 1805  echo "awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt" 
+ 1806  awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt
+ 1807  echo "awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt" > AWK/commande-awk.txt 
+ 1808  echo ""awk -F"|" '{print "Ligne: " , NR , "Client : " , $1}' tel3.txt"" > AWK/commande-awk.txt 
+ 1809  cat AWK/commande-awk.txt 
+ 1810  git add AWK
+ 1811  git commit -m "awk"
+ 1812  git push origin master
+ 1813  cat tel3.txt 
+ 1814  awk -F"|" '/[/]/ {print $0}' tel3.txt 
+ 1815  echo ""awk -F"|" '/[/]/ {print $0}' tel3.txt"" >> AWK/commande-awk.txt 
+ 1816  cat AWK/commande-awk.txt 
+ 1817  awk -F"|" '$3 ~ /^56/ {print $0}' tel3.txt 
+ 1818  echo ""awk -F"|" '$3 ~ /^56/ {print $0}' tel3.txt"" >> AWK/commande-awk.txt 
+ 1819  cat AWK/commande-awk.txt 
+ 1820  awk pwd
+ 1821  pwd
+ 1822  awk -F"|" 'NR == 2 , NR == 4 {print $1; " - " , $5}' tel3.txt 
+ 1823  awk -F"|" 'NR == 1 || NR == 2 {print $1, " - " , $5}' tel3.txt 
+ 1824  echo ""awk -F"|" 'NR == 1 || NR == 2 {print $1, " - " , $5}' tel3.txt"" >> AWK/commande-awk.txt 
+ 1825  awk -F"|" 'NR == 2 , NR == 4 {print $1, " - " , $5}' tel3.txt 
+ 1826  echo ""awk -F"|" 'NR == 2 , NR == 4 {print $1, " - " , $5}' tel3.txt"" >> AWK/commande-awk.txt 
+ 1827  cat AWK/commande-awk.txt 
+ 1828  pwd
+ 1829  vim script1.awk
+ 1830  awk -f script1.awk tel3.txt 
+ 1831  echo ""awk -f script1.awk tel3.txt"" >> AWK/commande-awk.txt 
+ 1832  cat AWK/commande-awk.txt 
+ 1833  pwd
+ 1834  git add script1.awk 
+ 1835  git commit -m "1er script awk"
+ 1836  git push origin master
+ 1837  mv script1.awk AWK/
+ 1838  mv tel3.txt AWK/
+ 1839  git add AWK/
+ 1840  git commit -m "1er script awk"
+ 1841  git push origin master
+ 1842  cd AWK/
+ 1843  vim redirect1.awk
+ 1844  date > /tmp/fic.txt
+ 1845  cat /tmp/fic.txt 
+ 1846  awk -f redirect1.awk 
+ 1847  cat /tmp/fic.txt 
+ 1848  vim redirect2.awk 
+ 1849  date > /tmp/fic.txt
+ 1850  cat /tmp/fic.txt 
+ 1851  awk -f redirect2.awk 
+ 1852  cat /tmp/fic.txt 
+ 1853  vim agenda.txt
+ 1854  cat agenda.txt 
+ 1855  awk 'NR%2 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1856  awk 'NR {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1857  awk 'NR%2 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1858  awk 'NR%-1 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1859  awk 'NR%2 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1860  awk 'NR%1 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1861  awk 'NR%2 {print $1 | "sort" } END{close("sort") }' agenda.txt 
+ 1862  echo ""awk 'NR%2 {print $1 | "sort" } END{close("sort") }' agenda.txt "" >> commande-awk.txt 
+ 1863  cd ..
+ 1864  git add AWK/
+ 1865  git commit -m "scripts awk"
+ 1866  git push origin master
+ 1867  vim transfert1.awk
+ 1868  pwd
+ 1869  mv transfert1.awk AWK/
+ 1870  cd AWK/
+ 1871  awk -f transfert1.awk tel3.txt 
+ 1872  cd ..
+ 1873  git add AWK/
+ 1874  git commit -m "scripts awk"
+ 1875  git push origin master
+ 1876  cd AWK/
+ 1877  vim switch.gawk
+ 1878  gawk -f switch.gawk tel3.txt 
+ 1879  vim switch.gawk
+ 1880  gawk -f switch.gawk tel3.txt 
+ 1881  cd ..
+ 1882  git add AWK/
+ 1883  git commit -m "scripts awk"
+ 1884  git push origin master
+ 1885  cd AWK/
+ 1886  vim tab.awk
+ 1887  awk -f tab.awk tel3.txt 
+ 1888  vim tab.awk
+ 1889  awk -f tab.awk tel3.txt 
+ 1890  vim tab.awk
+ 1891  awk -f tab.awk tel3.txt 
+ 1892  vim tab.awk
+ 1893  awk -f tab.awk tel3.txt 
+ 1894  vim tab.awk
+ 1895  awk -f tab.awk tel3.txt 
+ 1896  vim tab.awk
+ 1897  awk -f tab.awk tel3.txt 
+ 1898  vim tab.awk
+ 1899  awk -f tab.awk tel3.txt 
+ 1900  vim ventes.txt
+ 1901  vim tab2.awk
+ 1902  awk -f tab2.awk ventes.txt 
+ 1903  vim tab2.awk
+ 1904  awk -f tab2.awk ventes.txt 
+ 1905  vim tab2.awk
+ 1906  awk -f tab2.awk ventes.txt 
+ 1907  vim tab2.awk
+ 1908  ls
+ 1909  mkdir MYTEST
+ 1910  cd MYTEST/
+ 1911  vim tableau1.awk
+ 1912  cp ../tel3.txt .
+ 1913  awk -f tableau1.awk tel3.txt 
+ 1914  vim tableau1.awk
+ 1915  awk -f tableau1.awk tel3.txt 
+ 1916  vim tableau1.awk
+ 1917  awk -f tableau1.awk tel3.txt 
+ 1918  vim tableau1.awk
+ 1919  awk -f tableau1.awk tel3.txt 
+ 1920  vim tableau1.awk
+ 1921  awk -f tableau1.awk tel3.txt 
+ 1922  vim tableau1.awk
+ 1923  cp ../ventes.txt .
+ 1924  vim tableau2.awk 
+ 1925  vim tableau1.awk
+ 1926  vim tableau2.awk 
+ 1927  awk -f tableau2.awk ventes.txt 
+ 1928  vim tableau2.awk 
+ 1929  awk -f tableau2.awk ventes.txt 
+ 1930  vim tableau2.awk 
+ 1931  awk -f tableau2.awk ventes.txt 
+ 1932  vim tableau2.awk 
+ 1933  awk -f tableau2.awk ventes.txt 
+ 1934  vim tableau2.awk 
+ 1935  awk -f tableau2.awk ventes.txt 
+ 1936  rm tableau2.awk 
+ 1937  vim tableau2.awk 
+ 1938  awk -f tableau2.awk ventes.txt 
+ 1939  cat ventes.txt 
+ 1940  awk -f tableau2.awk ventes.txt 
+ 1941  vim tableau2.awk 
+ 1942  awk -f tableau2.awk ventes.txt 
+ 1943  vim tableau2.awk 
+ 1944  awk -f tableau2.awk ventes.txt 
+ 1945  vim tableau2.awk 
+ 1946  awk -f tableau2.awk ventes.txt 
+ 1947  vim tableau2.awk 
+ 1948  awk -f tableau2.awk ventes.txt 
+ 1949  vim tableau2.awk 
+ 1950  awk -f tableau2.awk ventes.txt 
+ 1951  vim tableau2.awk 
+ 1952  awk -f tableau2.awk ventes.txt 
+ 1953  vim tableau2.awk 
+ 1954  awk -f tableau2.awk ventes.txt 
+ 1955  vim tableau2.awk 
+ 1956  awk -f tableau2.awk ventes.txt 
+ 1957  vim tableau2.awk 
+ 1958  awk -f tableau2.awk ventes.txt 
+ 1959  vim tableau2.awk 
+ 1960  awk -f tableau2.awk ventes.txt 
+ 1961  vim tableau2.awk 
+ 1962  awk -f tableau2.awk ventes.txt 
+ 1963  vim tableau2.awk 
+ 1964  awk -f tableau2.awk ventes.txt 
+ 1965  vim tableau2.awk 
+ 1966  awk -f tableau2.awk ventes.txt 
+ 1967  vim tableau2.awk 
+ 1968  awk -f tableau2.awk ventes.txt 
+ 1969  vim tableau2.awk 
+ 1970  awk -f tableau2.awk ventes.txt 
+ 1971  vim tableau2.awk 
+ 1972  awk -f tableau2.awk ventes.txt 
+ 1973  vim tableau2.awk 
+ 1974  awk -f tableau2.awk ventes.txt 
+ 1975  vim tableau2.awk 
+ 1976  awk -f tableau2.awk ventes.txt 
+ 1977  typeset -A tabAssoc
+ 1978  tabAssoc=([nom]="Deffaix Remy" [prenom]=Christine)
+ 1979  echo ${tabAssoc[nom]} 
+ 1980  vim tableau2.awk 
+ 1981  cd ..
+ 1982  cat code_civil.txt 
+ 1983  cat agenda.txt 
+ 1984  cat tel3.txt 
+ 1985  pwd
+ 1986  ls
+ 1987  cat tel3.txt 
+ 1988  vim tel3.txt 
+ 1989  cat ventes.txt 
+ 1990  pwd
+ 1991  cat agenda.txt 
+ 1992  cd 1  ligne1 \images/symbol2.PNG 
+ 1993  cd /home/vagrant/recup_git_hub/AWK/
+ 1994  cat conf.txt 
+ 1995  cat agenda.txt 
+ 1996  cat tel3.txt 
+ 1997  cd ../BASH_KSH/
+ 1998  vim getuser_v4.sh 
+ 1999  exit
+ 2000  init 0
+ 2001  ls
+ 2002  ls -a
+ 2003  pwd
+ 2004  cd ~
+ 2005  ls
+ 2006  cd /root/
+ 2007  ls
+ 2008  ls -a
+ 2009  cd /tmp/
+ 2010  ls
+ 2011  cd -
+ 2012  ls -a
+ 2013  mkdir GIT
+ 2014  ls
+ 2015  cd GIT/
+ 2016  git init 
+ 2017  tree
+ 2018  git status
+ 2019  git add test1.txt 
+ 2020  git status
+ 2021  git commit 
+ 2022  git status
+ 2023  ls
+ 2024  git config --list
+ 2025  vim test2.txt
+ 2026  ls
+ 2027  git add test2
+ 2028  git add test2.txt 
+ 2029  git commit
+ 2030  git status
+ 2031  vim test2
+ 2032  vim test2.txt 
+ 2033  git status
+ 2034  git add
+ 2035  git add test2.txt 
+ 2036  git commit 
+ 2037  git status
+ 2038  git log
+ 2039* git log --o
+ 2040  git log --online
+ 2041  git log --oneline
+ 2042  git log --oneline --graph
+ 2043  git log --oneline --graph --name-status
+ 2044  git diff 2e6cf20 c934776
+ 2045  cat test2.txt 
+ 2046  vim test2.txt 
+ 2047  git add test2.txt 
+ 2048  git commit 
+ 2049  git log --oneline --graph --name-status
+ 2050  cat test2.txt 
+ 2051  vim test2.txt 
+ 2052  git add test2.txt 
+ 2053  git commit 
+ 2054  git log --oneline --graph --name-status
+ 2055  cat test2.txt 
+ 2056  gut revert 6a3e621
+ 2057  git revert 6a3e621
+ 2058  cat test2.txt 
+ 2059  git log --oneline --graph --name-status
+ 2060  vim test2.txt 
+ 2061  git add test2.txt 
+ 2062  git commit
+ 2063  git log --oneline --graph --name-status
+ 2064  vim test2.txt 
+ 2065  git add test2.txt 
+ 2066  git commit -m "Ajout d'une 5eme ligne"
+ 2067  git log --oneline --graph --name-status
+ 2068  git revert HEAD~2..HEAD
+ 2069  cat test2.txt 
+ 2070  git log --oneline --graph --name-status
+ 2071  history > cmd_git.txt
